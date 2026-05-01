@@ -2,7 +2,8 @@ Production-ready corporate website and contact handling system developed for Tro
 This repository is intended for technical overview and demonstration purposes only.
 
 ## Visit Website
-🌐 https://troytechnologies.co.uk
+> Fully deployed production environment (custom SMTP + backend API)
+- 🌐 https://troytechnologies.co.uk
 
 # Troy Technologies – Corporate Website & Contact Infrastructure
 
